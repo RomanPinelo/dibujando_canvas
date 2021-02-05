@@ -33,4 +33,4 @@ Al hacer click en el input el dato que esté se borrará.
 
 En el siguiente link puedes ver la página funcionando: 
 
-https://romanpinelo.github.io/
+https://romanpinelo.github.io/dibujando_canvas/
